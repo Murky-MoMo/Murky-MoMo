@@ -1,1 +1,1 @@
-<div>hey</dive>
+<div style="color:blue">hey</dive>
